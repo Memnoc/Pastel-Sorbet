@@ -1,4 +1,4 @@
-# pastel_sorbet.nvim
+# pastel-sorbet.nvim
 
 A soft, pastel Neovim colorscheme with rich purples and vibrant accents.
 
@@ -46,7 +46,7 @@ vim.cmd.colorscheme("pastel_sorbet")
 ## Palette
 
 | Color         | Hex       |
-|---------------|-----------|
+| ------------- | --------- |
 | bg            | `#1c1826` |
 | bg_dark       | `#14111c` |
 | bg_ui         | `#2e2840` |
