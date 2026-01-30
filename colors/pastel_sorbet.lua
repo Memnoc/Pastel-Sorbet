@@ -12,36 +12,9 @@ vim.g.colors_name = "pastel_sorbet"
 vim.o.termguicolors = true
 
 local hl = vim.api.nvim_set_hl
+local c = require("pastel_sorbet.palette")
 
 -- }}}
--- Palette
-local c = {
-  bg = "#1c1826",
-  bg_dark = "#14111c",
-  bg_ui = "#2e2840",
-  fg = "#e8e4f2",
-  fg_dim = "#cdc8da",
-  grey = "#726a88",
-  grey_light = "#9c94b2",
-  linenr = "#4e4662",
-  red = "#ff8596",
-  red_bright = "#ffa0b0",
-  green = "#6ef298",
-  green_bright = "#52edb8",
-  yellow = "#ffd85c",
-  yellow_bright = "#ffe48a",
-  blue = "#7db8ff",
-  blue_bright = "#a8d0ff",
-  purple = "#c88df7",
-  purple_bright = "#dba8ff",
-  cyan = "#4cf0d8",
-  cyan_bright = "#7af5e4",
-  pink = "#ff8ed0",
-  lime = "#b8f55c",
-  teal = "#3df2c4",
-  amber = "#ffa85c",
-  none = "NONE",
-}
 
 -- Base
 hl(0, "Normal", { fg = c.fg, bg = c.bg })
