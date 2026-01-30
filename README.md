@@ -1,7 +1,20 @@
-# pastel-sorbet.nvim
 
-A soft, pastel Neovim colorscheme with rich purples and vibrant accents.
+<p align="center">
+  <img src="./assets/logo_2.png" alt="Pastel_Sorbet" width="400">
+</p>
 
+<p align="center">
+ <strong> A soft, pastel Neovim colorscheme with rich purples and vibrant accents.</strong>
+</p>
+
+<p align="center">
+  <a href="#installation">Installation</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#palette">Palette</a> •
+  <a href="#supported_plugins">Supported Plugin</a>
+</p>
+
+---
 ## Installation
 
 ### lazy.nvim
