@@ -1,11 +1,22 @@
+<div align="center">
+
+# 🍨 Pastel Sorbet
+
+**The Neovim Edition**
+
+![Version](https://img.shields.io/badge/version-1.0.0-ff8596?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-6ef298?style=flat-square)
+![Flavor](https://img.shields.io/badge/flavor-sweet-ffd85c?style=flat-square)
 
 <p align="center">
-  <img src="./assets/logo_2.png" alt="Pastel_Sorbet" width="400">
+  <img src="https://via.placeholder.com/800x450/1c1826/e8e4f2?text=Pastel+Sorbet+Terminal+Preview" alt="Pastel Sorbet Terminal Preview" width="800">
 </p>
 
-<p align="center">
- <strong> A soft, pastel Neovim colorscheme with rich purples and vibrant accents.</strong>
-</p>
+ *"A soft, pastel experience with rich purples and vibrant accents."*
+
+</div>
+
+---
 
 <p align="center">
   <a href="#installation">Installation</a> •
