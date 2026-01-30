@@ -5,14 +5,14 @@
 
 vim.cmd("highlight clear")
 if vim.fn.exists("syntax_on") then
-  vim.cmd("syntax reset")
+	vim.cmd("syntax reset")
 end
 
-vim.g.colors_name = "pastel_sorbet"
+vim.g.colors_name = "pastel-sorbet"
 vim.o.termguicolors = true
 
 local hl = vim.api.nvim_set_hl
-local c = require("pastel_sorbet.palette")
+local c = require("pastel-sorbet.palette")
 
 -- }}}
 
