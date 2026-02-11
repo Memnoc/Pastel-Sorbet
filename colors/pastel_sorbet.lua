@@ -12,7 +12,7 @@ vim.g.colors_name = "pastel-sorbet"
 vim.o.termguicolors = true
 
 local hl = vim.api.nvim_set_hl
-local c = require("pastel-sorbet.palette")
+local c = require("pastel_sorbet.palette")
 
 -- }}}
 
